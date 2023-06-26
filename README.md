@@ -54,6 +54,10 @@ Si oprimes el botón de guardar 💾, podrás guardar tu partida en ese momento 
 
 Si necesitas información adicional sobre el videojuego, puedes verla en el archivo [POOBTrizGuia](/POOBTetrisGUIA.pdf)
 
+## Tests 🛠
+
+Puedes correr los test haciendo uso de JUnit 5.
+
 ## Built With 👷🏻‍♂️
 
 * [Java](https://www.oracle.com/java/technologies/javase/jdk17-archive-downloads.html) - Logic & interface
